@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BookSearchPart2</string>
+    <string name="search_books">search books</string>
+    <string name="search_hint">Please enter the title of the book</string>
+    <string name="book_title">Book title</string>
+    <string name="author">Author</string>
+    <string name="publisher">Publisher</string>
+    <string name="published_date">Published Date</string>
+    <string name="description">Description</string>
+
+</resources>
